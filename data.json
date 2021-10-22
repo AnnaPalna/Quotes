@@ -1,62 +1,78 @@
 [
     {
       "text": "Do not pity the dead, Harry. Pity the living, and, above all those who live without love",
-      "author": "Albus Dumbledore"
+      "author": "Albus Dumbledore",
+      "rustext": "Не жалей умерших, Гарри. Жалей живых, и в особенности тех, кто живет без любви"
     },
     {
       "text": "Books! And cleverness! There are more important things — friendship and bravery",
-      "author": "Hermione Granger"
+      "author": "Hermione Granger",
+      "rustext": "Книги! И сообразительность! Есть вещи поважнее - дружба и храбрость"
     },
       {
       "text": "You know, Minister, I disagree with Dumbledore on many counts, but you cannot deny he’s got style",
-      "author": "Phineas Nigellus"
+      "author": "Phineas Nigellus",
+      "rustext": "Вы знаете, министр, я не согласен с Дамблдором по многим пунктам, но вы не можете отрицать, что у него есть стиль"
     },
     {
       "text": "There’s no need to call me sir, Professor",
-      "author": "Harry Potter"
+      "author": "Harry Potter",
+      "rustext": "Необязательно называть меня сэр, профессор"
     },
     {
       "text": "We’ve all got both light and dark inside us. What matters is the part we choose to act on. That’s who we really are",
-      "author": "Sirius Black"
+      "author": "Sirius Black",
+      "rustext": "У всех нас внутри есть и свет, и тьма. Важны наши действия. Они определяют, кто мы есть на самом деле"
     },
     {
       "text": "Things we lose have a way of coming back to us in the end, if not always in the way we expect",
-      "author": "Luna Lovegood"
+      "author": "Luna Lovegood",
+      "rustext": "То, что мы теряем, все равно к нам вернется, хотя и не всегда в том виде, как мы ожидаем"
     },
     {
       "text": "Yer a wizard Harry",
-      "author": "Rubeus Hagrid"
+      "author": "Rubeus Hagrid",
+      "rustext": "Ты волшебник, Гарри"
+        
     },
     {
       "text": "I think we've outgrown full-time education ... Time to test our talents in the real world, d'you reckon?",
-      "author": "Fred Weasley"
+      "author": "Fred Weasley",
+      "rustext": "Я думаю, что мы переросли очное образование... Пришло время проверить наши таланты в реальном мире, как ты думаешь?"
     },
     {
       "text": "Training for the ballet, Potter?",
-      "author": "Draco Malfoy"
+      "author": "Draco Malfoy",
+      "rustext": "Учишься балету, Поттер?"
     },
     {
       "text": "Why, dear boy, we don’t send wizards to Azkaban just for blowing up their aunts",
-      "author": "Cornelius Fudge"
+      "author": "Cornelius Fudge",
+      "rustext": "Милый мальчик, мы не отправляем волшебников в Азкабан только за то, что они взрывают своих тетушек"
     },
     {
       "text": "It is the quality of one’s convictions that determines success, not the number of followers.",
-      "author": "Remus Lupin"
+      "author": "Remus Lupin",
+      "rustext": "Успех определяется качеством убеждений, а не количеством последователей"
     },
     {
       "text": "Always",
-      "author": "Severus Snape"
+      "author": "Severus Snape",
+      "rustext": "Всегда"
     },
     {
       "text": "It is impossible to manufacture or imitate love",
-      "author": "Horace Slughorn"
+      "author": "Horace Slughorn",
+      "rustext": "Любовь невозможно изобразить или сымитировать"
     },
     {
       "text": "We’re with you whatever happens",
-      "author": "Ron Weasley"
+      "author": "Ron Weasley",
+      "rustext": "Мы с тобой что бы ни случилось"
     },
     {
       "text": "Ah, yes. Harry Potter. Our new — celebrity",
-      "author": "Severus Snape"
+      "author": "Severus Snape",
+      "rustext": "Гарри Поттер - наша новая знаменитость"
     }
   ]  
